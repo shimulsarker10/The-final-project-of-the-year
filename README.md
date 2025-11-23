@@ -1,5 +1,4 @@
 
-![2025](./Learning-Materials/kichuEktaBanai.PNG)
 2025 was a year full of dreams. Let's end this year by making something meaningful, `A Dynamic Website` from scratch. It will be simple yet meaningful, fully working.  You can join us anyday. Just send me a mail. 
 
 ## __Current Group Members__
@@ -46,3 +45,4 @@ Here are the resouce that are required prior to jump into the project.
 - [React](https://www.w3schools.com/react/default.asp)
 - [NodeJS](https://www.w3schools.com/nodejs/default.asp)
 - [] -->
+<!-- ![2025](./Learning-Materials/kichuEktaBanai.PNG) -->
